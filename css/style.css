@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 400;
+  color: #333;
+  background-image: url("https://www.thespruceeats.com/thmb/LIfWsru7OyxtrscIuH97o8NQCS8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/instant-pot-beef-stew-5218740-step-01-b5c06001cf9a45dca56f87bb7e299b81.jpg");
+  background-position: center;
+  background-size: contain;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  background-color: rgba(248, 221, 17, 0.638);
+}
+html {
+  height: 100%;
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+img {
+  object-fit: contain;
+  border-radius: 50%;
+  object-position: center;
+  width: 35rem;
+  width: 30rem;
+}
+h1 {
+  font-size: 3rem;
+}
+p {
+  font-size: 2rem;
+  color: teal;
+}
+li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid green;
+  width: 40rem;
+  height: 35rem;
+  gap: 0.5rem;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 0.5rem;
+  background-color: silver;
+  border-radius: 0.8rem;
+  cursor: pointer;
+  &:hover {
+    background-color: rgb(232, 223, 223);
+  }
+}
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.masalig {
+  color: black;
+  text-align: center;
+}

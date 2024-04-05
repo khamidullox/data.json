@@ -1,0 +1,84 @@
+{
+    "recipies": [
+      {
+        "id": "1",
+        "title": "Palov",
+        "cookingTime": "120 minutes",
+        "ingredients": ["rise", "carrot", "meat", "oil", "onion", "spices"],
+        "method": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis porttitor enim. Integer dignissim, nisi sit amet dictum varius, ipsum nibh bibendum orci, eget venenatis neque massa sit amet velit. Vestibulum accumsan posuere ultrices. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. ",
+        "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/0*UxnVMQMIAowST-rp"
+      },
+      {
+        "id": "2",
+        "title": "Ko'kat Somsa",
+        "cookingTime": "40 minutes",
+        "ingredients": ["flour", "carrot", "meat", "oil", "onion", "spices"],
+        "method": "Morbi cursus tellus nec iaculis dapibus. Etiam eget dolor maximus, malesuada nunc et, viverra dolor. Donec laoreet sodales est. Sed sed magna vestibulum, fringilla metus suscipit, convallis neque. Phasellus vestibulum dolor non ipsum fringilla, quis accumsan dui porta. Pellentesque suscipit lectus velit, vel faucibus sem ultrices id. Nunc sodales pretium justo, ac ullamcorper quam cursus tempus.",
+        "imageUrl": "https://arbuz.com/wp-content/uploads/2017/08/Samsa-Recipe-46.jpg"
+      },
+      {
+        "id": "3",
+        "title": "Pilav Usti Doner",
+        "cookingTime": "10 minutes",
+        "ingredients": [ "meat", "oil", "reis"],
+        "method": "Mauris viverra condimentum felis ac volutpat. Nam sodales sem in nisi fermentum scelerisque eu nec urna. Maecenas nisl orci, sagittis vitae molestie nec, posuere nec massa. In consequat rhoncus nunc eu eleifend. Donec ultrices neque in felis interdum, eget eleifend nulla portam justo, ac ullamcorper quam cursus tempus.",
+        "imageUrl": "https://i.lezzet.com.tr/images-xxlarge-recipe/pilav-ustu-doner-610a743c-6b6a-4c1e-9a0a-b1b76628d821.jpg"
+      },
+      {
+        "id": "4",
+        "title": "Iskender Doner",
+        "cookingTime": "15 minutes",
+        "ingredients":[ "meat", "oil", "bred" , "sous"],
+        "method":" All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.",
+        "imageUrl": "https://i.lezzet.com.tr/images-xxlarge-recipe/how-to-make-iskender-kebab-homemade-iskender-kebab-recipe-bae78de4-7c4c-4d2d-9016-456852c22f5c.jpg"
+      },
+      {
+        "id": "5",
+        "title": "Et sote",
+        "cookingTime": "20 minutes",
+        "ingredients":[ "meat", "oil", "bred" , "sous", "tommeto"] ,
+        "method": "Donec ac tincidunt dui, vitae convallis lorem. Nullam tincidunt risus vel pharetra fringilla. Etiam euismod neque vitae sapien facilisis, eu bibendum dui fringilla. Integer congue placerat est at placerat. Suspendisse sed nulla eget purus tempor condimentum non quis elit",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl9xbZriW45i2byHs9YahIQV8HOc7hQJi7_O3_qTnGIA&s"
+      },
+      {
+        "id": "6",
+        "title": "Lag'mon",
+        "cookingTime": "60 minutes",
+        "ingredients": ["flour", "carrot", "meat", "oil", "onion", "spices", "potato"],
+        "method": "Suspendisse in purus non massa cursus congue eget quis nisl. Sed ut augue consequat, vestibulum odio id, blandit purus. Vivamus ut ligula egestas, dapibus lorem luctus, faucibus velit. Vivamus consequat enim erat, ac vestibulum nibh tincidunt et. Mauris auctor arcu eu mauris dapibus, non egestas nisi sagittis",
+        "imageUrl": "https://news.store.rambler.ru/img/d30cbdf94be77132ddebe1d4cceee763?img-1-resize=width%3A1280%2Cheight%3A720%2Cfit%3Acover&img-format=auto"
+      },
+      {
+        "id": "7",
+        "title": "Tavuq pirzola",
+        "cookingTime": "15 minutes",
+        "ingredients": ["chiken" , "sous","mangal", "marinivka"],
+        "method": "Phasellus mi lacus, fringilla sed justo eget, pellentesque lobortis nulla. Quisque purus magna, ultricies ut varius sed, vehicula et magna. Donec orci felis, tempor interdum pellentesque tempus, feugiat quis lorem.",
+        "imageUrl": "https://i.ytimg.com/vi/Fe7TfD_mnGQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgSig0MA8=&rs=AOn4CLCPsGKbfUXtl_HfOR0Y1VnEQLbUlg"
+      },
+      {
+        "id": "8",
+        "title": "Peperoni",
+        "cookingTime": "20 minutes",
+        "ingredients": ["flour", "sous", "peperoni"],
+        "method": "In hac habitasse platea dictumst. Cras quis volutpat erat. Pellentesque mattis mollis metus, a ullamcorper leo. Phasellus nec augue sed tellus pellentesque rutrum. Quisque eget rhoncus enim, vel luctus massa. ",
+        "imageUrl": "https://img.freepik.com/premium-photo/sliced-peperoni-pizza-with-salami_219193-6494.jpg"
+      },
+      {
+        "id": "9",
+        "title": "Orama",
+        "cookingTime": "60 minutes",
+        "ingredients": ["flour", "potato", "meat", "oil", "onion"],
+        "method": "Pellentesque quis ornare metus, euismod tristique nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum molestie maximus erat id pellentesque. Mauris eget augue fringilla, sagittis nisl elementum, tempus quam. Aenean non lorem magna.",
+        "imageUrl": "https://resizer.mail.ru/p/88d510b5-f98e-53f2-af1b-f430eb7acafc/AQAF0U69DAy4vv1Axp7TDxu1WSGz5bIqJmfLAs1U-MfomY4eaR4lvwnX-wC0mFhhLqeIU52NfgU1G4ef_-pHCXYVz_Q.jpg"
+      },
+      {
+        "id": "10",
+        "title": "Bosma",
+        "cookingTime": "40 minutes",
+        "ingredients": ["potato", "carrot", "meat", "oil", "onion", "spices"],
+        "method": "Nullam dapibus felis a magna molestie facilisis vel ac ipsum. Maecenas justo massa, suscipit sit amet tincidunt at, fermentum et nibh. In consectetur dignissim vulputate. Mauris gravida, metus in rutrum consequat, arcu metus laoreet eros, at tincidunt elit sem facilisis neque. Fusce luctus tortor vitae augue venenatis tempus a quis nunc. Integer nec sodales lorem",
+        "imageUrl": "https://i.ytimg.com/vi/DVmwS7xnzmY/mqdefault.jpg"
+      }
+    ]
+  }
